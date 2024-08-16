@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos Pessoais\\siteLoja\\siteLoja\\siteLoja.csproj": {}
+    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\siteLoja.csproj": {}
   },
   "projects": {
-    "C:\\Projetos Pessoais\\siteLoja\\siteLoja\\siteLoja.csproj": {
+    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\siteLoja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos Pessoais\\siteLoja\\siteLoja\\siteLoja.csproj",
+        "projectUniqueName": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\siteLoja.csproj",
         "projectName": "siteLoja",
-        "projectPath": "C:\\Projetos Pessoais\\siteLoja\\siteLoja\\siteLoja.csproj",
-        "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos Pessoais\\siteLoja\\siteLoja\\obj\\",
+        "projectPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\siteLoja.csproj",
+        "packagesPath": "C:\\Users\\Arthur Cruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arthur Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +38,32 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,6 +75,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -63,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

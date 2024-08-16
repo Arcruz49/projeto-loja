@@ -1,0 +1,26 @@
+
+CREATE TABLE cadProduto (
+    cdProduto INT PRIMARY KEY IDENTITY(1,1),
+    cdCategoria INT,
+    nmProduto VARCHAR(400) NOT NULL,
+    preco FLOAT,
+	imagemUrl varchar(max),
+	imagemUrlThumb varchar(max),
+	emEstoque bit,
+    dtCriacao DATETIME,
+    dtAlteracao DATETIME,
+    inativo INT,
+    CONSTRAINT FK_cdCategoria FOREIGN KEY (cdCategoria) REFERENCES cadCategoria(cdCategoria)
+);
+
+
+
+
+CREATE TABLE cadCategoria(
+	cdCategoria INT PRIMARY KEY IDENTITY(1,1),
+	nmCategoria varchar(400) not null,
+	descCategoria varchar(500),
+	dtCriacao DateTime,
+	dtAlteracao DateTime,
+	inativo int
+)
