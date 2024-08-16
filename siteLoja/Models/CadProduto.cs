@@ -16,6 +16,6 @@ namespace siteLoja.Models
         public string? ImagemUrlThumb { get; set; }
         public bool? EmEstoque { get; set; }
 
-        public virtual CadCategoria? CdCategoriaNavigation { get; set; }
+        public virtual CadCategoria? cadCategoria { get; set; }
     }
 }

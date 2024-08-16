@@ -6,12 +6,8 @@ namespace siteLoja.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+        private shopDBContext db = new shopDBContext();
 
         public IActionResult Index()
         {

@@ -1,0 +1,7 @@
+--- Conectar Entity Framework com o banco ---
+
+dotnet ef dbcontext scaffold "Server=localhost\SQLEXPRESS;Database=shopDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+--- Atualizar o modelo pelo banco ---
+
+dotnet ef dbcontext scaffold "Server=localhost\SQLEXPRESS;Database=shopDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --context ShopDbContext --force

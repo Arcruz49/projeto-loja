@@ -98,7 +98,7 @@ namespace siteLoja.Models
 
                 entity.Property(e => e.Preco).HasColumnName("preco");
 
-                entity.HasOne(d => d.CdCategoriaNavigation)
+                entity.HasOne(d => d.cadCategoria)
                     .WithMany(p => p.CadProdutos)
                     .HasForeignKey(d => d.CdCategoria)
                     .HasConstraintName("FK_cdCategoria");

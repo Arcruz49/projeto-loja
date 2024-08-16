@@ -24,3 +24,28 @@ CREATE TABLE cadCategoria(
 	dtAlteracao DateTime,
 	inativo int
 )
+
+
+
+INSERT INTO cadCategoria (nmCategoria, descCategoria, dtCriacao, dtAlteracao, inativo)
+VALUES 
+    ('Eletrônicos', 'Categoria para todos os produtos eletrônicos', GETDATE(), NULL, 0),
+    ('Roupas', 'Categoria para roupas e vestuário', GETDATE(), NULL, 0),
+    ('Móveis', 'Categoria para móveis e decoração', GETDATE(), NULL, 0),
+    ('Alimentos', 'Categoria para alimentos e bebidas', GETDATE(), NULL, 0),
+    ('Livros', 'Categoria para livros e material de leitura', GETDATE(), NULL, 0);
+
+
+
+	INSERT INTO cadProduto (cdCategoria, nmProduto, preco, imagemUrl, imagemUrlThumb, emEstoque, dtCriacao, dtAlteracao, inativo)
+VALUES 
+    (1, 'Smartphone X Pro', 2999.99, 'http://example.com/images/smartphone-x-pro.jpg', 'http://example.com/images/thumbs/smartphone-x-pro.jpg', 1, GETDATE(), NULL, 0),
+    (1, 'Laptop Gamer Ultra', 4999.99, 'http://example.com/images/laptop-gamer-ultra.jpg', 'http://example.com/images/thumbs/laptop-gamer-ultra.jpg', 1, GETDATE(), NULL, 0),
+    (2, 'Jaqueta de Couro', 399.99, 'http://example.com/images/jaqueta-couro.jpg', 'http://example.com/images/thumbs/jaqueta-couro.jpg', 1, GETDATE(), NULL, 0),
+    (2, 'Vestido Floral', 199.99, 'http://example.com/images/vestido-floral.jpg', 'http://example.com/images/thumbs/vestido-floral.jpg', 1, GETDATE(), NULL, 0),
+    (3, 'Sofá Retrátil', 2499.99, 'http://example.com/images/sofa-retratil.jpg', 'http://example.com/images/thumbs/sofa-retratil.jpg', 1, GETDATE(), NULL, 0),
+    (3, 'Mesa de Jantar', 1199.99, 'http://example.com/images/mesa-jantar.jpg', 'http://example.com/images/thumbs/mesa-jantar.jpg', 1, GETDATE(), NULL, 0),
+    (4, 'Pacote de Arroz 5kg', 15.99, 'http://example.com/images/arroz-5kg.jpg', 'http://example.com/images/thumbs/arroz-5kg.jpg', 1, GETDATE(), NULL, 0),
+    (4, 'Cerveja Premium', 29.99, 'http://example.com/images/cerveja-premium.jpg', 'http://example.com/images/thumbs/cerveja-premium.jpg', 1, GETDATE(), NULL, 0),
+    (5, 'Livro de Programação', 89.99, 'http://example.com/images/livro-programacao.jpg', 'http://example.com/images/thumbs/livro-programacao.jpg', 1, GETDATE(), NULL, 0),
+    (5, 'Romance Clássico', 49.99, 'http://example.com/images/romance-classico.jpg', 'http://example.com/images/thumbs/romance-classico.jpg', 1, GETDATE(), NULL, 0);
