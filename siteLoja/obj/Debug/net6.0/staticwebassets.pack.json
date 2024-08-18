@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\wwwroot\\images\\camisa.png",
+      "PackagePath": "staticwebassets\\images\\camisa.png"
+    },
+    {
+      "Id": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\wwwroot\\images\\carrosel 3.png",
+      "PackagePath": "staticwebassets\\images\\carrosel 3.png"
+    },
+    {
+      "Id": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\wwwroot\\images\\carrousel 1.png",
+      "PackagePath": "staticwebassets\\images\\carrousel 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\wwwroot\\images\\carrousel 2.png",
+      "PackagePath": "staticwebassets\\images\\carrousel 2.png"
+    },
+    {
       "Id": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\wwwroot\\images\\klho2y2vh1nb1.jpg",
       "PackagePath": "staticwebassets\\images\\klho2y2vh1nb1.jpg"
     },

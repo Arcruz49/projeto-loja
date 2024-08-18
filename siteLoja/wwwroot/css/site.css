@@ -37,3 +37,12 @@ body {
     transform: translateY(-50%);
     bottom: auto; /* Reseta o valor bottom caso tenha sido definido antes */
 }
+
+.product {
+    transition: transform 0.3s ease; 
+    cursor:pointer;
+}
+
+    .product:hover {
+        transform: scale(1.05); /* Aumenta o tamanho do elemento em 5% */
+    }

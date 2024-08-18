@@ -14,7 +14,7 @@ namespace siteLoja.Controllers
                 var produtos = (from a in db.CadProdutos
                                 select a).ToList();
 
-                return View(produtos);
+                return PartialView(produtos);
             }
             catch (Exception ex) 
             {

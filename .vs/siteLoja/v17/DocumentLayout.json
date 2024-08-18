@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\views\\produto\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\views\\produto\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\models\\resources\\retorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\models\\resources\\retorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\models\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\models\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\models\\cadproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\models\\cadproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\siteloja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\siteloja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\models\\cadcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\models\\cadcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\projeto-loja\\siteloja\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818D12DD-A743-4291-9D28-A2AE0C128CAC}|siteLoja\\siteLoja.csproj|solutionrelative:siteloja\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,45 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "siteLoja\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "siteLoja\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T03:54:37.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Views\\Produto\\List.cshtml",
               "RelativeDocumentMoniker": "siteLoja\\Views\\Produto\\List.cshtml",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Views\\Produto\\List.cshtml",
               "RelativeToolTip": "siteLoja\\Views\\Produto\\List.cshtml",
-              "ViewState": "AQIAAB0AAAAAAAAAAAApwC0AAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-16T03:43:39.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "siteLoja",
+              "DocumentIndex": 3,
+              "Title": "siteLoja.csproj",
               "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\siteLoja.csproj",
               "RelativeDocumentMoniker": "siteLoja\\siteLoja.csproj",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\siteLoja.csproj",
               "RelativeToolTip": "siteLoja\\siteLoja.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-16T03:39:46.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "shopDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Models\\shopDBContext.cs",
-              "RelativeDocumentMoniker": "siteLoja\\Models\\shopDBContext.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Models\\shopDBContext.cs",
-              "RelativeToolTip": "siteLoja\\Models\\shopDBContext.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAkwGIAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T02:35:53.692Z",
               "EditorCaption": ""
             },
             {
@@ -106,80 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "siteLoja\\Controllers\\ProdutoController.cs",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "siteLoja\\Controllers\\ProdutoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T03:26:53.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "siteLoja\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "siteLoja\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T02:25:26.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CadProduto.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Models\\CadProduto.cs",
-              "RelativeDocumentMoniker": "siteLoja\\Models\\CadProduto.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Models\\CadProduto.cs",
-              "RelativeToolTip": "siteLoja\\Models\\CadProduto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T01:54:44.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CadCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Models\\CadCategoria.cs",
-              "RelativeDocumentMoniker": "siteLoja\\Models\\CadCategoria.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Models\\CadCategoria.cs",
-              "RelativeToolTip": "siteLoja\\Models\\CadCategoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T01:53:41.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "siteLoja\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "siteLoja\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-13T03:31:37.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "siteLoja\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\projeto-loja\\siteLoja\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "siteLoja\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-13T03:31:37.361Z",
               "EditorCaption": ""
             }
           ]

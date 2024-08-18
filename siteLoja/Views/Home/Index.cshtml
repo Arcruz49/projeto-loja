@@ -2,4 +2,55 @@
     ViewData["Title"] = "Home Page";
 }
 
-<partial name="_Carrousel"/>
+<div class="container">
+    <div class="carousel-container">
+        <partial name="_Carrousel" />
+    </div>
+    <div class="content-container">
+        <div id="product-list"></div>
+    </div>
+</div>
+
+<style>
+    .container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .carousel-container {
+        
+        height: 300px;
+        background-color: #f0f0f0; 
+        z-index: 10;
+        position: relative;
+    }
+
+    .content-container {
+        background-color: #fff; 
+        z-index: 1;
+        position: relative;
+        margin-top: 280px; 
+    }
+
+    #product-list {
+        padding: 50px;
+    }
+</style>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            url: '@Url.Action("List", "Produto")',
+            type: 'GET',
+            success: function (data) {
+                $('#product-list').html(data);
+            },
+            error: function (xhr, status, error) {
+                console.error("Erro ao carregar produtos:", error);
+            }
+        });
+    });
+</script>

@@ -1,0 +1,24 @@
+﻿@model IEnumerable<siteLoja.Models.CadProduto>
+
+<div class="container">
+    <h2>Todos os Produtos</h2>
+    <div class="row justify-content-start">
+        @if(Model != null)
+        {
+        @foreach (var produto in Model)
+        {
+            <div class="col-auto mb-4">
+                <!-- col-auto permite que o tamanho da coluna seja determinado pelo conteúdo -->
+                <div class="card" style="width: 200px; height: 300px;">
+                    <!-- Tamanho fixo -->
+                    <img class="card-img-top" src="@produto.ImagemUrl" alt="@produto.NmProduto" style="height: 150px; object-fit: cover;"> <!-- Altura fixa para a imagem -->
+                    <div class="card-body">
+                        <h4 class="card-title" style="font-size: 1rem;">@produto.NmProduto</h4>
+                        <h3 class="card-text" style="font-size: 1.2rem;">@produto.Preco?.ToString("c")</h3>
+                    </div>
+                </div>
+            </div>
+        }
+        }
+    </div>
+</div>
